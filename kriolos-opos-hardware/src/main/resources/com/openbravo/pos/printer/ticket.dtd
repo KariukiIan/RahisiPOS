@@ -16,9 +16,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<!ELEMENT output (ticket | display | opendrawer | play | )*>
+<!ELEMENT output (ticket | display | opendrawer | play )*>
 
 <!ELEMENT ticket (line | image | barcode | cut)*>
+<!ELEMENT cut EMPTY>
 <!ATTLIST ticket printer CDATA "0">
 
 <!ELEMENT line (text)*>

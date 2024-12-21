@@ -13,7 +13,7 @@
     <groupId>io.github.kriolos.opos</groupId>
     <artifactId>kriolos-opos-thirdparty</artifactId>
     <packaging>pom</packaging>
-    <name>Kriolos.POS.Thirdparty</name>
+    <name>RahisiPOS</name>
 
     <build>
         <plugins>

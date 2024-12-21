@@ -10,8 +10,8 @@
     <groupId>io.github.kriolos.opos</groupId>  
     <artifactId>kriolos-pos-doc</artifactId>
     <packaging>pom</packaging>
-    <name>Kriolos.POS.Doc</name>
-    <description>Kriolos :: POS official documentation</description>
+    <name>Rahisi.POS.Doc</name>
+    <description>Rahisi :: POS official documentation</description>
     
     <properties>
         <asciidoc.source.directory>${basedir}/src/main/asciidoc</asciidoc.source.directory>
