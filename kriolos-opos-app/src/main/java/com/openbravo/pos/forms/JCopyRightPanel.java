@@ -31,9 +31,7 @@ public class JCopyRightPanel extends javax.swing.JPanel {
         initComponents();
         
         copyRightLabel.setText("<html><center>"
-                + "<h1>KriolOS POS - Open Source Point Of Sale</h1>"
-                + "<p>More info on <href a=\""+OFICIAL_S+"\">official site</a></p>"
-                + "<p>"+OFICIAL_S+"</p>"
+                + "<h1>RahisiPOS - Sell Smart, Work Less</h1>"
                 + "</center>"
                 + "<br><br>"
                 + "<h2>License: GPL v3</h2>"
