@@ -39,7 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <displayName>Run</displayName>
         <goals>
             <goal>exec:java</goal>
-            <goal>-pl kriolos-opos-app</goal>
+            <goal>-Rahisi-opos-app</goal>
         </goals>
         <properties>
             <exec.vmArgs></exec.vmArgs>
@@ -58,7 +58,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <goals>
             <goal>process-classes</goal>
             <goal>exec:java</goal>
-            <goal>-pl kriolos-opos-app</goal>
+            <goal>- Rahisi-opos-app</goal>
         </goals>
         <properties>
             <exec.args>-agentlib:jdwp=transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath ${exec.mainClass} ${exec.appArgs}</exec.args>

@@ -354,14 +354,14 @@ public class AppConfig implements AppProperties {
         propConfig.setProperty("paper.standard.height", "698");
         propConfig.setProperty("paper.standard.mediasizename", "A4");
 
-        propConfig.setProperty("tkt.header1", "KriolOS POS");
-        propConfig.setProperty("tkt.header2", "Open Source Point Of Sale");
-        propConfig.setProperty("tkt.header3", "Copyright (c) 2020-2023 KriolOS");
+        propConfig.setProperty("tkt.header1", "RahisiPOS");
+        propConfig.setProperty("tkt.header2", "Sell Smart, Work Less.");
+        propConfig.setProperty("tkt.header3", "Copyright (c) RahisiPOS");
         propConfig.setProperty("tkt.header4", "Change header text in Configuration");
 
         propConfig.setProperty("tkt.footer1", "Change footer text in Configuration");
-        propConfig.setProperty("tkt.footer2", "Thank you for your custom");
-        propConfig.setProperty("tkt.footer3", "Please Call Again");
+        propConfig.setProperty("tkt.footer2", "Thank you for your purchase");
+        propConfig.setProperty("tkt.footer3", "Please come again!");
 
         propConfig.setProperty("table.showcustomerdetails", "true");
         propConfig.setProperty("table.customercolour", "#58B000");

@@ -10,7 +10,7 @@
     <groupId>io.github.kriolos.opos</groupId>
     <artifactId>kriolos-opos-i18n</artifactId>
     <packaging>jar</packaging>
-    <name>Kriolos.POS.i18N</name>  
+    <name>RahisiPOS</name>
     <properties>
         <skipTests>true</skipTests>
     </properties>

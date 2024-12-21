@@ -22,10 +22,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <artifactId>kriolos-opos-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Kriolos.POS.Parent</name>
+    <name>Rahisi.POS.Parent</name>
 
     <url>https://github.com/kriolos/kriolos-opos</url>
-    <description>KriolOS.POS (Kriol Open Source Point Of Sales)</description>
+    <description>Rahisi.POS (Sell Smart, Work Less)</description>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <maven.compiler.target>11</maven.compiler.target>
         
         <netbeans.version>RELEASE140</netbeans.version>
-        <brandingToken>kriolos_obiz</brandingToken>
+        <brandingToken>RahisiPOS</brandingToken>
         
         <project.github-url>http://kriolos.github.io/kriolos-opos</project.github-url>
 
